@@ -1,2 +1,51 @@
+/* Color Palette */
+.color-1 {
+    background: red;
+}
 
+.color-2 {
+    background: white;
+}
 
+.color-3 {
+    background: blue;
+}
+
+.color-4 {
+    background: black;
+}
+
+/* Textures and Patterns */
+.pattern-1 {
+    background: url("http://previews.123rf.com/images/tintin75/tintin751407/tintin75140700018/29691151-A-vintage-american-poster-with-a-texture-Stock-Vector-flag-american.jpg");
+    background-size: cover;
+}
+
+.pattern-2 {
+    background: url("../img/starbucks.jpg") no-repeat;
+    background-size: contain;
+}
+
+/* Images */
+.imagery-1 img {
+    box-shadow: 
+        5px 5px 0 white,
+        10px 10px 0 blue,
+        15px 15px 0 red;
+}
+
+/* Icon */
+.icon-1 {
+    border: none;
+}
+
+.icon-2 {
+    bacground: url("../img/iconmonstr-smartphone-3-240.png");
+        background-size: contain;
+}
+
+/* Navigation */
+nav li {
+    list-style: none;
+    display: inline-block;
+}
