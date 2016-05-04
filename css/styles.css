@@ -1,6 +1,35 @@
 /* My Awesome Styling */
 
+/* Global, Sitewide, Boilerplate */
+
+body {
+    background: url("../img/bg-tile.jpg");
+}
+
+
 /* Header */
 header img {
     width: 100px;
 }
+
+/* Main Nav */
+
+nav li {
+  display: inline-block;
+  list-style: none;
+}
+
+nav a:link, 
+nav a:visited {
+
+  padding: 1em;
+  text-decoration: none;
+  transition: all .5s;
+}
+
+nav a:hover,
+nav a:active {
+  background: green;
+  margin-left: .5em;
+}
+
