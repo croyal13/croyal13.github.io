@@ -1,6 +1,8 @@
 /* My Awesome Styling */
 
+
 /* Global, Sitewide, Boilerplate */
+@import url(https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica);
 
 body {
     background: url("../img/bg-tile.jpg");
@@ -32,4 +34,25 @@ nav a:active {
   background: green;
   margin-left: .5em;
 }
+
+/* Quote */
+blockquote {
+color: blue;
+font-family: 'IM Fell Double Pica', serif;
+font-size: 2em;
+text-align: center;
+text-shadow: 2px 2px 0 red,
+    4px 4px 0 orange,
+    6px 6px 10px green,
+    -4px -4px 4px #f0f;
+    
+    
+}
+
+
+
+
+
+
+
 
