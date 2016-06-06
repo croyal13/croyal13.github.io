@@ -42,15 +42,55 @@ color: dimgray;
 font-family: 'IM Fell Double Pica', serif;
 font-size: 2em;
 text-align: center;
-
-    
-    
 }
 
+/* Mobile */
 
+@media screen and (min-width:25em) {
 
+    body {
+        transition: background .5s;
+}
 
+}
+.tablet, .desktop {
+    display: none;
+}
 
+.mobile {
+    display: block;
+}
 
+/* Tablet */
+@media screen and (min-width: 37.5em)  {
+  
+    body {
+    transition: background .5s;
+  }
+  
+  .mobile, .desktop {
+    display: none;
+  }
+  
+  .tablet {
+    display: block;
+  }
+  
+}
 
+/* Desktop */
+@media screen and (min-width: 62.5em) {
+  
+    body {
+    transition: background .5s;
+  }
+  
+  .mobile, .tablet {
+    display: none;
+  }
+  
+  .desktop {
+    display: block;
+  }
 
+}
