@@ -1,0 +1,43 @@
+<article class="grid-container">
+<h1>RESUME</h1>
+
+  <section class="grid-3">
+  <h3>Education</h3>
+  <ul>
+    <li>Seattle Christian Schools 2013</li>
+    <li>Eastern Washington University 2017</li>
+    </ul>
+  </section>
+  
+  <section class="grid-3">
+  <h3>Experience</h3>
+  <h4>Eastern Washington University English Department</h4>
+  <p>Office Aide - Work Study</p>
+    <dl>
+    <dt>Various Office Duties</dt>
+    <dd>Photocopying documents, mail distribution, filing, etc...</dd>
+    </dl>
+  
+    <h4>Jersey Mike's</h4>
+    <p>Morning Crew Member</p>
+    <dl>
+    <dt>TBA (Task A)</dt>
+      <dd>Start date June 13, 2016</dd>
+    </dl>
+    
+    <h4>Seattle Times Paper Carrier</h4>
+    <p>Assistant Paper Carrier</p>
+    <dl>
+      <dt>Assisted paper carrier with preparation of newspapers to be delivered.</dt>
+      <dd>Gathering supplies, preparing newspapers for distribution.</dd>
+      <dd>September 2011 to September 2013</dd>
+    </dl>
+  </section>
+  
+  <section class="grid-3">
+  <h3>Extra / Supplemental / Addendum</h3>
+  <h4>Volunteer Work</h4>
+    <p>The past few summers I've been a camp counselor for two camps, First Chance  Bible Camp (2nd-3rd Grade) and Junior Bible Camp (4th-6th Grade), both at Pleasant Valley Christian Camp in Mineral, Washington</p>
+    <p>Summer of 2015 I spent about two or so weeks helping a Christian bookstore, By The Well, get ready for opening. Most of the time I worked on prepping the shelving as well as stocking the shelves and racks prior to opening day.</p>
+  </section>
+  </article>
