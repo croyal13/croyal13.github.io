@@ -38,14 +38,11 @@ nav a:active {
 
 /* Quote */
 blockquote {
-color: blue;
+color: dimgray;
 font-family: 'IM Fell Double Pica', serif;
 font-size: 2em;
 text-align: center;
-text-shadow: 2px 2px 0 red,
-    4px 4px 0 orange,
-    6px 6px 10px green,
-    -4px -4px 4px #f0f;
+
     
     
 }
