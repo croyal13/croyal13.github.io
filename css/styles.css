@@ -95,9 +95,7 @@ text-align: center;
 }
 
 figure {
-    position: relative;
-    overflow: hidden;
-    width: 500px;
+    
 }
 
 figcaption {
@@ -115,3 +113,7 @@ figcaption {
 #ContactMe {
     text-align: center;
 }
+    
+    div {
+        width: 400px;
+    }
