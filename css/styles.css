@@ -98,7 +98,7 @@ figure {
     height: 200px;
     position: relative;
     overflow: hidden;
-    width: 600px;
+    width: 500px;
 }
 
 figcaption {
@@ -106,7 +106,7 @@ figcaption {
     bottom: 0;
     padding: 10px;
     position: absolute;
-    width: 600px;
+    width: 500px;
 }
 
 figure figcaption {
