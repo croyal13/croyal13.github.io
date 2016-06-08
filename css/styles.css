@@ -51,7 +51,7 @@ text-align: center;
         transition: background .5s;
 }
 
-}
+
 .tablet, .desktop {
     display: none;
 }
