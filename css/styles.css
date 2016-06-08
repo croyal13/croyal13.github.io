@@ -93,3 +93,29 @@ text-align: center;
   }
 
 }
+
+figure {
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    width: 600px;
+}
+
+figcaption {
+    background: #bdbdbd;
+    bottom: 0;
+    padding: 10px;
+    position: absolute;
+    width: 600px;
+}
+
+figure figcaption {
+    opacity: 1;
+    bottom: -10px;
+}
+
+figure:hover figcaption {
+    animation: jello 1s 1s ease;
+    bottom: 0;
+    opacity: 1;
+}
