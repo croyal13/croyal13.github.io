@@ -103,3 +103,15 @@ figure {
 figcaption {
     background: #bdbdbd;
 }
+
+#Resume {
+    text-align: center;
+}
+
+#Portfolio {
+    text-align: center;
+}
+
+#ContactMe {
+    text-align: center;
+}
